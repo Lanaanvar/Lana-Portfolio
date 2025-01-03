@@ -157,7 +157,7 @@ nav.navbar .navbar-toggler-icon:after {
   padding: 8px 10px;
   background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
   border: 1px solid rgba(255, 255, 255, 0.5);
-  font-size: 20px;
+  font-size: 34px;
   margin-bottom: 16px;
   display: inline-block;
 }
@@ -195,7 +195,7 @@ nav.navbar .navbar-toggler-icon:after {
   display: flex;
   align-items: center;
   background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
-  padding: 20px 65px;
+  padding: 15px 41px;
   border: none;
   border-radius: 50px;
   transition: transform 0.3s, box-shadow 0.3s;
@@ -406,7 +406,7 @@ nav.navbar .navbar-toggler-icon:after {
 
 .projects p {
   color: #B8B8B8;
-  font-size: 18px;
+  font-size: 25px;
   line-height: 1.6;
   max-width: 800px;
   margin: 0 auto 40px;
@@ -466,7 +466,7 @@ nav.navbar .navbar-toggler-icon:after {
 
 .project-card img {
   width: 100%;
-  height: auto;
+  height: 300px;
 }
 
 @media (max-width: 992px) {

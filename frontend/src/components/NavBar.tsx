@@ -47,8 +47,8 @@ const NavBar: React.FC = () => {
           </Nav>
           <div className="navText">
             <div className="social-icons">
-                <a href="#"><FaLinkedin/></a>
-                <a href="#"><FaGithub /></a>
+                <a href="https://www.linkedin.com/in/lana-anvar" target="_blank" rel="noopener noreferrer"><FaLinkedin/></a>
+                <a href="https://github.com/Lanaanvar" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
             </div>
           </div>
         </Navbar.Collapse>

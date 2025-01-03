@@ -25,17 +25,45 @@ export const Skills: React.FC = () => {
 
   const skills = [
     {
-      title: "Web Development",
+      title: "React.js",
       imagePath: "/src/assets/meter1.svg"
     },
     {
-      title: "Frontend Development",
+      title: "Node.js",
       imagePath: "/src/assets/meter1.svg"
     },
     {
-      title: "Backend Development",
+      title: "HTML",
       imagePath: "/src/assets/meter1.svg"
-    }
+    },
+    {
+      title: "CSS",
+      imagePath: "/src/assets/meter1.svg"
+    },
+    {
+      title: "Python",
+      imagePath: "/src/assets/meter1.svg"
+    },
+    {
+      title: "MongoDB",
+      imagePath: "/src/assets/meter1.svg"
+    },
+    {
+      title: "Git",
+      imagePath: "/src/assets/meter1.svg"
+    },
+    {
+      title: "Pytorch",
+      imagePath: "/src/assets/meter1.svg"
+    },
+    {
+      title: "Numpy",
+      imagePath: "/src/assets/meter1.svg"
+    },
+    {
+      title: "OpenCV",
+      imagePath: "/src/assets/meter1.svg"
+    },
   ];
 
   return (
