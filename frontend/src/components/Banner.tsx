@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { useEffect } from "react"
 import { Container, Col, Row } from "react-bootstrap"
-import { ArrowRightCircle } from "react-bootstrap-icons"
+// import { ArrowRightCircle } from "react-bootstrap-icons"
 import headerImg from "/src/assets/header-img.svg"
 import "/src/assets/color-sharp.png"
 
